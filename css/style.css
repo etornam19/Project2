@@ -1,8 +1,8 @@
 body {
   font-family: 'Times New Roman', Times, serif;
   background-color: #99fafa;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 h1{
@@ -19,7 +19,7 @@ nav {
 
 nav ul{
   list-style-type: none;
-  background-color: rgb(132, 202, 219);
+  background-color: rgb(233, 184, 214);
   padding: 0;
   margin: 0;
   display: inline-block;
